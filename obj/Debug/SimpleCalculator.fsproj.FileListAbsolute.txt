@@ -1,0 +1,8 @@
+c:\users\alisraa\documents\visual studio 2015\Projects\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe.config
+c:\users\alisraa\documents\visual studio 2015\Projects\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.XML
+c:\users\alisraa\documents\visual studio 2015\Projects\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+c:\users\alisraa\documents\visual studio 2015\Projects\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+c:\users\alisraa\documents\visual studio 2015\Projects\SimpleCalculator\SimpleCalculator\bin\Debug\FSharp.Core.dll
+c:\users\alisraa\documents\visual studio 2015\Projects\SimpleCalculator\SimpleCalculator\bin\Debug\FSharp.Core.xml
+c:\users\alisraa\documents\visual studio 2015\Projects\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.exe
+c:\users\alisraa\documents\visual studio 2015\Projects\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.pdb
